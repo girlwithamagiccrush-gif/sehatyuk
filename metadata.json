@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hospital System Navigator",
+  "description": "A centralized AI-driven hospital management interface. It acts as a navigator, intelligently delegating user requests to specialized sub-agents for Medical Records, Billing, Patient Info, and Appointments using Google Gemini 2.5.",
+  "requestFramePermissions": []
+}
